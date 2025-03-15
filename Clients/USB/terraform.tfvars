@@ -1,0 +1,5 @@
+aws_region = "ap-south-1"
+ami = "ami-05c179eced2eb9b5b"
+instance_type = "t2.micro"
+key_name = "ovk_key"
+security_group_id = "sg-0bdb52d11c916243d"
